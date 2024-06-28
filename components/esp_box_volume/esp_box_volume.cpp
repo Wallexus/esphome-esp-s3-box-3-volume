@@ -1,6 +1,5 @@
 #include "esp_box_volume.h"
 #include "esphome/core/log.h"
-#include "../esp32_s3_box_3/board.h" // Adjust this include as necessary
 
 namespace esphome
 {
